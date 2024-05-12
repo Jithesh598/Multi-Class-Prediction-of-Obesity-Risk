@@ -1,1 +1,1 @@
-# Multi-Class-Prediction-of-Obesity-Risk
+# Multi-Class-Obesity-Risk-Prediction
